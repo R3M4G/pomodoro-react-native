@@ -48,4 +48,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- Inspired by the Pomodoro Technique developed by Francesco Cirillo.
+- Inspired by the 5217.io and 5217 developed by Francisco Franco.
